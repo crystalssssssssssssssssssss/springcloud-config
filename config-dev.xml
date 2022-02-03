@@ -1,2 +1,2 @@
-name=lc
-age=22
+ config:
+   info: "master branch,springcloud-config/config-dev.xml version=1"
